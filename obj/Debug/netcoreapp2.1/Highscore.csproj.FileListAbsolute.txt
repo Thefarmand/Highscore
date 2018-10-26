@@ -1,0 +1,15 @@
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\bin\Debug\netcoreapp2.1\Highscore.deps.json
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\bin\Debug\netcoreapp2.1\Highscore.runtimeconfig.json
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\bin\Debug\netcoreapp2.1\Highscore.runtimeconfig.dev.json
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\bin\Debug\netcoreapp2.1\Highscore.pdb
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\obj\Debug\netcoreapp2.1\Highscore.csproj.CoreCompileInputs.cache
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\obj\Debug\netcoreapp2.1\Highscore.RazorAssemblyInfo.cache
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\obj\Debug\netcoreapp2.1\Highscore.RazorAssemblyInfo.cs
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\obj\Debug\netcoreapp2.1\Highscore.AssemblyInfoInputs.cache
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\obj\Debug\netcoreapp2.1\Highscore.AssemblyInfo.cs
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\obj\Debug\netcoreapp2.1\Highscore.RazorTargetAssemblyInfo.cache
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\obj\Debug\netcoreapp2.1\Highscore.dll
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\obj\Debug\netcoreapp2.1\Highscore.pdb
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\bin\Debug\netcoreapp2.1\Highscore.dll
+C:\Users\Jan\source\repos\Typescript\Highscore\Highscore\Highscore\obj\Debug\netcoreapp2.1\Highscore.csprojAssemblyReference.cache
